@@ -146,3 +146,4 @@ payload:
   - DOMAIN-SUFFIX,yahoodns.net
   - DOMAIN-SUFFIX,miaostay.com
   - DOMAIN-KEYWORD,cdn-lfs-us
+  - DOMAIN-KEYWORD,nexus-cdn
