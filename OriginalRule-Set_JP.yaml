@@ -43,10 +43,10 @@ payload:
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-KEYWORD,openai
-  - DOMAIN-suffix, sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX, sekai.colorfulpalette.org
   - DOMAIN-SUFFIX,itsuki.icu
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,abema-tv
-  - DOMAIN-suffix,yahoo.co.jp
-  - DOMAIN-suffix,mages.co.jp
-  - DOMAIN-suffix,sekai.colorfulpalette.org
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,mages.co.jp
+  - DOMAIN-SUFFIX,sekai.colorfulpalette.org
