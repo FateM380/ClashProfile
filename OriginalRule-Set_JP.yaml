@@ -47,3 +47,6 @@ payload:
   - DOMAIN-SUFFIX,itsuki.icu
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,abema-tv
+  - DOMAIN-suffix,yahoo.co.jp
+  - DOMAIN-suffix,mages.co.jp
+  - DOMAIN-suffix,sekai.colorfulpalette.org
