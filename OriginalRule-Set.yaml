@@ -215,4 +215,6 @@ payload:
   - DOMAIN,a.dove.isdumb.one
   - DOMAIN-SUFFIX,asuswrt-merlin.net
   - DOMAIN-SUFFIX,mangacopy.com
-  - DOMAIN-SUFFIX, copy-manga.com
+  - DOMAIN-SUFFIX,copy-manga.com
+  - DOMAIN-SUFFIX,mangafunb.fun
+  - DOMAIN-SUFFIX,mangafuna.xyz
