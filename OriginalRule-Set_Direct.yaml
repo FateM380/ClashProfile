@@ -4,4 +4,6 @@ payload:
   - DOMAIN-SUFFIX,picaxiazai.xyz
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,photo-api.adobe.io
+  - DOMAIN,help.apple.com
   - DOMAIN-SUFFIX,apple.com
+  
