@@ -223,4 +223,4 @@ payload:
   - DOMAIN,boardgamegeek.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,www.itsuki.icu
-  - DOMAIN,yahoo.com
+  - DOMAIN-SUFFIX,yahoo.com
