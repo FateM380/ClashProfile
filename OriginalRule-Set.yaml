@@ -227,3 +227,4 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-SUFFIX,huggingface.co
