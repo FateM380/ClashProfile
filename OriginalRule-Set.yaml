@@ -1,4 +1,4 @@
-payload:
+3payload:
   - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-SUFFIX,gying.net
   - DOMAIN-SUFFIX,kiko-play-niptan.one
@@ -229,3 +229,4 @@ payload:
   - DOMAIN-SUFFIX,nintendo.com
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,manhuagui.com
